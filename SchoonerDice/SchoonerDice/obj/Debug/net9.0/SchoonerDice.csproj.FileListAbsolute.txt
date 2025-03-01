@@ -1,0 +1,14 @@
+D:\_TY-DATA\DEV\LAB\_C#\TEST\pragma\SchoonerDice\SchoonerDice\bin\Debug\net9.0\SchoonerDice.exe
+D:\_TY-DATA\DEV\LAB\_C#\TEST\pragma\SchoonerDice\SchoonerDice\bin\Debug\net9.0\SchoonerDice.deps.json
+D:\_TY-DATA\DEV\LAB\_C#\TEST\pragma\SchoonerDice\SchoonerDice\bin\Debug\net9.0\SchoonerDice.runtimeconfig.json
+D:\_TY-DATA\DEV\LAB\_C#\TEST\pragma\SchoonerDice\SchoonerDice\bin\Debug\net9.0\SchoonerDice.dll
+D:\_TY-DATA\DEV\LAB\_C#\TEST\pragma\SchoonerDice\SchoonerDice\bin\Debug\net9.0\SchoonerDice.pdb
+D:\_TY-DATA\DEV\LAB\_C#\TEST\pragma\SchoonerDice\SchoonerDice\obj\Debug\net9.0\SchoonerDice.GeneratedMSBuildEditorConfig.editorconfig
+D:\_TY-DATA\DEV\LAB\_C#\TEST\pragma\SchoonerDice\SchoonerDice\obj\Debug\net9.0\SchoonerDice.AssemblyInfoInputs.cache
+D:\_TY-DATA\DEV\LAB\_C#\TEST\pragma\SchoonerDice\SchoonerDice\obj\Debug\net9.0\SchoonerDice.AssemblyInfo.cs
+D:\_TY-DATA\DEV\LAB\_C#\TEST\pragma\SchoonerDice\SchoonerDice\obj\Debug\net9.0\SchoonerDice.csproj.CoreCompileInputs.cache
+D:\_TY-DATA\DEV\LAB\_C#\TEST\pragma\SchoonerDice\SchoonerDice\obj\Debug\net9.0\SchoonerDice.dll
+D:\_TY-DATA\DEV\LAB\_C#\TEST\pragma\SchoonerDice\SchoonerDice\obj\Debug\net9.0\refint\SchoonerDice.dll
+D:\_TY-DATA\DEV\LAB\_C#\TEST\pragma\SchoonerDice\SchoonerDice\obj\Debug\net9.0\SchoonerDice.pdb
+D:\_TY-DATA\DEV\LAB\_C#\TEST\pragma\SchoonerDice\SchoonerDice\obj\Debug\net9.0\SchoonerDice.genruntimeconfig.cache
+D:\_TY-DATA\DEV\LAB\_C#\TEST\pragma\SchoonerDice\SchoonerDice\obj\Debug\net9.0\ref\SchoonerDice.dll
